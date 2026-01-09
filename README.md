@@ -18,7 +18,6 @@ Projet réalisé dans le cadre de la **SAE501**, consistant en la modélisation 
 Ce dépôt GitHub contient :
 
 * Le **modèle 3D complet** de la salle de classe
-* Le **cahier de recettes** du projet
 * Les informations techniques liées à la **modélisation**, l’**optimisation** et l’**intégration web**
 
 Une version web interactive permet de naviguer directement dans la salle en 3D via un navigateur.
