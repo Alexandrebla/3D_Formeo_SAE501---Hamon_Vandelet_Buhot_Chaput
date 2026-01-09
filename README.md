@@ -27,8 +27,8 @@ Une version web interactive permet de naviguer directement dans la salle en 3D v
 
 ## 🔗 Liens
 
-* **Salle de classe 3D (version web)** : *(lien à ajouter)*
-* **Site Forméo** : *(lien à ajouter)*
+* **Salle de classe 3D (version web)** : https://3d-sae-501.vercel.app/
+* **Site Forméo** : http://54.37.158.194/
 
 ---
 
@@ -59,7 +59,7 @@ La scène comprend l’ensemble des éléments suivants :
 * Poubelle
 * Détails de la salle :
 
-  * Panneaux à trous
+  * Panneaux à trous (Supprimés pour la version web)
   * Barre en métal
   * Rebord proche de la fenêtre
   * Poutre
@@ -175,12 +175,6 @@ Le modèle 3D est intégré dans une **page web interactive** grâce à **Three.
 * Masquage d’éléments de la scène
 
 * Zoom ou focus sur un élément spécifique
-
----
-
-## 📄 Licence
-
-Projet réalisé dans un cadre pédagogique (SAE501). Toute réutilisation doit mentionner les auteurs.
 
 ---
 
